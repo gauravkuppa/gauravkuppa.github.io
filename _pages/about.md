@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gaurav Kuppa"
+title: #"Gaurav Kuppa"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -10,12 +10,15 @@ redirect_from:
 
 About Me
 ======
-I have completed my bachelors in Computer Engineering at San Jose State University (2020). 
-I am interested in use computer vision to extrapolate information from enviornments 
-and inform robotic decision-making. I have researched topics such as neural rendering, style 
-transfer, stable software systems, and more through. Recently, I have taken a 
-liking towards understanding the broader impact of deep learning models to reduce carbon emissions 
-from our atmosphere.  
+I completed my bachelors in Computer Engineering at San Jose State University (2020). 
+I am interested in using computer vision to extrapolate information from enviornments 
+to inform robotic decision-making. Furthermore, I have explored the effect of a strategic use 
+of deep learning and robotics taken to reduce carbon emissions from our atmosphere.  
+
+
+Between June 2018 to present, I have researched topics such as neural rendering, style transfer, stable 
+software systems, and knowledge graphs at San Jose State University and University of Southern California.
+Furthermore, I deployed reinforcement learning algorithms onto simulated robots at Aerospace Corporation. 
 
 News
 ======
@@ -24,18 +27,13 @@ News
 - [11/2020] Gave a talk at FTC 2020 about Stable Machine Learning (link slides)
 - [11/2020] Hosted "Saving Our Planet - Energy, Climate & AI" talk (link video)
 
-Professional Experience
-======
-- *Summer 2020*, Completed an internship at **Aerospace Corporation**
-  - Used AWS SageMaker and RoboMaker to deploy RL algorithms onto robots in simulation. You can find more details in the slides for a talk I presented. (link slides) 
-
 
 Publications
 ======
 [* denotes equal contribution ]
 - ShineOn: Illuminating Design Choices for Practical Video-based Virtual Try-on
 
-    **Gaurav Kuppa***, Andrew Jong*, Vera Liu, Ziwei Liu, and Teng Moh
+    **Gaurav Kuppa** *, Andrew Jong *, Vera Liu, Ziwei Liu, and Teng Moh
 
     Generation of Human Behavior Workshop at WACV 2021. 
 
