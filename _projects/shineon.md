@@ -1,9 +1,9 @@
 ---
 title: "ShineOn: Illuminating Design Choices for Practical Video-based Virtual Try-on"
 excerpt: "<br/><img src='/images/pipeline.png' width=500>"
-collection: projects
+collection: portfolio
 ---
-#### Authors
+### Authors
 **Gaurav Kuppa** *, Andrew Jong *, Vera Liu, Ziwei Liu, and Teng Moh
 
 [* denotes equal contribution]
@@ -25,5 +25,3 @@ Our code may be accessed at https://github.com/andrewjong/ShineOn-Virtual-Tryon.
 
 ### Citation
 Will be posted soon.
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
