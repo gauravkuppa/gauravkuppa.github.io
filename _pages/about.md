@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-About Me
-======
 I completed my bachelors in Computer Engineering at San Jose State University (2020). 
 I am interested in using computer vision to extrapolate information from enviornments 
 to inform robotic decision-making. Furthermore, I have explored the effect of a strategic use 
