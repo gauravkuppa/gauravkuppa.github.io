@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Gaurav Kuppa"
+title: "Home"
 title_separator: "-"
 name: &name "Gaurav Kuppa"
 description: &description "Interested in work at the intersection of deep learning, robotics, and energy."
