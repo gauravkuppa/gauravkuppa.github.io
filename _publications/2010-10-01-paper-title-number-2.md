@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "ShineOn: Illuminating Design Choices for Practical Video-based Virtual Try-on"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
